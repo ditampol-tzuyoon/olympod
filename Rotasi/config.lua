@@ -463,7 +463,7 @@ if ShowIP then
         end
     
     
-        if findClothes(98) then
+        if bot:IsWearing(98) then
             PickBotz = ":green_circle: **Pickaxe** (x"..bot:FindItem(98)..")"
         else
             PickBotz = ":red_circle: **Pickaxe** (x"..bot:FindItem(98)..")"
