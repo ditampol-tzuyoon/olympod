@@ -570,7 +570,7 @@ AllDelay = "\n~\nBreak / Place / HT / Plant / World : **("
 
             @{
                 name = "]]..emot_bot..[[ Bot Name"
-                value = "]]..bot.name..[[ **(]]..getPing()..[[ Ms)**"
+                value = "]]..bot.name..[["
                 inline = "false"
             }
 
