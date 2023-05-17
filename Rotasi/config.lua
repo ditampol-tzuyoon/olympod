@@ -597,7 +597,7 @@ AllDelay = "\n~\nBreak / Place / HT / Plant / World : **("
             }
             @{
                 name = "]]..emot_gems..[[ Gems in Backpack"
-                value = "]]..TotItem(112)..[[/]]..hargapack..[["
+                value = "]]..bot.gems..[[/]]..hargapack..[["
                 inline = "true"
             }
 
