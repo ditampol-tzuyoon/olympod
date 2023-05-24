@@ -1,0 +1,21 @@
+ListPembeli = {
+    {iddc = "422670528483033088", nick = "186MalesBgt"},
+    {iddc = "1006873184013914142", nick = "FALBOnad"},
+    {iddc = "734980722284036206", nick = "BUKANRAF"},
+    {iddc = "720503455055085649", nick = "RadenConon"},
+    {iddc = "272260381207166976", nick = "AZLEYTPS"},
+    {iddc = "614877382352044073", nick = "ORDpasa "},
+    {iddc = "470538084199694348", nick = "Movewal"},
+    {iddc = "597036774342131733", nick = "XtraRio"},
+    {iddc = "547032936453767169", nick = "dranest29 "},
+    {iddc = "690692858998554653", nick = "MasYantoo"},
+    {iddc = "1000093777576349836", nick = "Hellbotss3"},
+    {iddc = "794776932843126804", nick = "FBkjhyF"},
+    {iddc = "421655433774891018", nick = "Vidkaa"},
+    {iddc = "845154898797527060", nick = "BangJunnn"},
+    {iddc = "481775099163443200", nick = "goasiso2"},
+    {iddc = "380311374468743179", nick = "jakuCV"},
+    {iddc = "1031567241403174983", nick = "BANGODAL"},
+    {iddc = "452496694056321046", nick = "Kedaungbarat"},
+    {iddc = "963422426144854056", nick = "Sitou"}
+}
