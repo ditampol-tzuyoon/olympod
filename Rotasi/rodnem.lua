@@ -5,7 +5,7 @@ ListPembeli = {
     {iddc = "734980722284036206", nick = "BUKANRAF"},
     {iddc = "720503455055085649", nick = "RadenConon"},
     {iddc = "272260381207166976", nick = "AZLEYTPS"},
-    {iddc = "614877382352044073", nick = "ORDpasa "},
+    {iddc = "614877382352044073", nick = "ORDpass"},
     {iddc = "470538084199694348", nick = "Movewal"},
     {iddc = "597036774342131733", nick = "XtraRio"},
     {iddc = "547032936453767169", nick = "dranest29 "},
