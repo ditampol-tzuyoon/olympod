@@ -8,7 +8,7 @@ ListPembeli = {
     {iddc = "614877382352044073", nick = "ORDpass"},
     {iddc = "470538084199694348", nick = "Movewal"},
     {iddc = "597036774342131733", nick = "XtraRio"},
-    {iddc = "547032936453767169", nick = "dranest29 "},
+    {iddc = "547032936453767169", nick = "dranest29"},
     {iddc = "690692858998554653", nick = "MasYantoo"},
     {iddc = "1000093777576349836", nick = "Hellbotss3"},
     {iddc = "794776932843126804", nick = "FBkjhyF"},
