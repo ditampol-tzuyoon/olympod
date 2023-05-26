@@ -48,5 +48,6 @@ ListPembeli = {
     {iddc = "867234805731950615", nick = "AJOJINGCINA"},
     {iddc = "776381515243454465", nick = "fathisukacindo"},
     {iddc = "544814666514169888", nick = "IYABUL"},
-    {iddc = "884752029052973086", nick = "DrChoppers"}
+    {iddc = "884752029052973086", nick = "DrChoppers"},
+    {iddc = "801687196725805067", nick = "Fawden"}
 }
