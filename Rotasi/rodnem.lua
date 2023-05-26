@@ -17,5 +17,22 @@ ListPembeli = {
     {iddc = "380311374468743179", nick = "jakuCV"},
     {iddc = "1031567241403174983", nick = "BANGODAL"},
     {iddc = "452496694056321046", nick = "Kedaungbarat"},
-    {iddc = "963422426144854056", nick = "Sitou"}
+    {iddc = "963422426144854056", nick = "Sitou"},
+    {iddc = "388836001641922561", nick = "OwnerTetes"},
+    {iddc = "943906130629918800", nick = "CommanderZakt"},
+    {iddc = "540902928488333314", nick = "Anotoki"},
+    {iddc = "690694213402099752", nick = "GEUZS4UPP"},
+    {iddc = "346180391323041792", nick = "iqipnb"},
+    {iddc = "954387042966569051", nick = "BastianNeedBGL"},
+    {iddc = "961929886547734528", nick = "asiahae28"},
+    {iddc = "696911514350911490", nick = "wzlz"},
+    {iddc = "160210285594935296", nick = "HanOD6"},
+    {iddc = "516219688091648011", nick = "NexKocak50"},
+    {iddc = "487212042252713994", nick = "boroco18"},
+    {iddc = "367654945136050179", nick = "VlefixSKSD"},
+    {iddc = "383019630354104340", nick = "Petanielit3"},
+    {iddc = "336522019766009866", nick = "RZero100"},
+    {iddc = "637275520140050443", nick = "Zsvenn"},
+    {iddc = "490836282977681408", nick = "SlipMore"},
+    {iddc = "819546299744387112", nick = "NardoCommand"}
 }
