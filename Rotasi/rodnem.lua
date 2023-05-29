@@ -70,7 +70,7 @@ ListPembeli = {
     {iddc = "992147888220155916", nick = "sxntye"},
     {iddc = "761642824202190919", nick = "Siloasol95"},
     {iddc = "685829686244540532", nick = "ILoveRECEH"},
-    {iddc = "642025476545708042", nick = "IzannNoMercy"},
+    {iddc = "642025476545708042", nick = "ArissNoMercy"},
     {iddc = "454443422061821952", nick = "AlanSSR"},
     {iddc = "552492526968504340", nick = "Gureda29"},
     {iddc = "880044436342583326", nick = "gundulsu"},
