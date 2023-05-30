@@ -80,6 +80,10 @@ Lopar = math.random(1, #LogoPartai)
 function ohdtag(logger)
 
     if not HideWebhook or ShowPingHook then
+
+        ohdpir = os.time{year=Waktu("Y"), month=Waktu("m"), day=Waktu("d"), hour=Waktu("H"), min=Waktu("M"), sec=Waktu("S")}
+        Dovi = ohdpir + (UTC_Time * 3600)
+        TimezNow = os.date("%c", Dovi)
 	
         if getBot().status ~= "online" then
             if Jastip then
@@ -116,9 +120,14 @@ function ohdtag(logger)
             $descriptions = ']].. logger ..[[ ]].. kalimatku ..[[' + $Morez + ']].. chinfo ..[[ <#' + $chid + '>'
             $color       = ']]..Warna..[['
 
+            $footerObject = [PSCustomObject]@{
+                text = 'Ohdear2320' + "`n" + ']]..TimezNow..[['
+            }
+
             $embedObject = [PSCustomObject]@{
                 description = $descriptions
                 color       = $color
+                footer      = $footerObject
             }
 
             $embedArray.Add($embedObject) | Out-Null
@@ -177,6 +186,10 @@ end
 function odnotice(logger)
 
     if not HideWebhook or ShowPingHook then
+
+        ohdpir = os.time{year=Waktu("Y"), month=Waktu("m"), day=Waktu("d"), hour=Waktu("H"), min=Waktu("M"), sec=Waktu("S")}
+        Dovi = ohdpir + (UTC_Time * 3600)
+        TimezNow = os.date("%c", Dovi)
 	
         if getBot().status == "online" then
             statzBot = ":green_circle:"
@@ -209,9 +222,14 @@ function odnotice(logger)
             $descriptions = ']].. logger ..[['
             $color       = ']]..Warna..[['
 
+            $footerObject = [PSCustomObject]@{
+                text = 'Ohdear2320' + "`n" + ']]..TimezNow..[['
+            }
+
             $embedObject = [PSCustomObject]@{
                 description = $descriptions
                 color       = $color
+                footer      = $footerObject
             }
 
             $embedArray.Add($embedObject) | Out-Null
