@@ -115,5 +115,6 @@ ListPembeli = {
     {iddc = "943762487399038976", nick = "kadsix67"},
     {iddc = "908009441213947905", nick = "gtsbot"},
     {iddc = "812109602589638719", nick = "mindahtontel"},
-    {iddc = "678560109491650580", nick = "A0M0JX96O7"}
+    {iddc = "678560109491650580", nick = "A0M0JX96O7"},
+    {iddc = "852424844279939074", nick = "mattGUILD2"}
 }
