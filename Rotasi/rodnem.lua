@@ -134,5 +134,12 @@ ListPembeli = {
     {iddc = "561514494283481110", nick = "SAIROT"},
     {iddc = "450199598896644096", nick = "DIKANIDEK"},
     {iddc = "443788266626351114", nick = "iRiyuuun"},
-    {iddc = "450199598896644096", nick = "TukangTambal"}
+    {iddc = "450199598896644096", nick = "TukangTambal"},
+    {iddc = "481692910333722630", nick = "DonAnderson"},
+    {iddc = "990290428983124048", nick = "WhyuCK"},
+    {iddc = "336112760255414284", nick = "spelter"},
+    {iddc = "487931555893870593", nick = "69Rota"},
+    {iddc = "514608997995773963", nick = "14Walthor"},
+    {iddc = "542142794681155609", nick = "rokudowgg"},
+    {iddc = "952157092372971561", nick = "Lixnar30"}
 }
