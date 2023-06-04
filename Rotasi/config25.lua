@@ -741,6 +741,16 @@ AllDelay = "\n~\nBreak / Place / HT / Plant / World : **("
                 value = "]]..findItem(seed)..[[ ]]..GetNameID(seed)..[["
                 inline = "true"
             }
+            @{
+                name = ":timer: Bot Running"
+                value = "]]..HitungWaktuPerm()..[["
+                inline = "true"
+            }
+            @{
+                name = ":beginner: Other Information"
+                value = "Online/Offline : (]]..StatusAktif("online")..[[/]]..StatusAktif("offline")..[[)"
+                inline = "false"
+            }
         )
 
         $embedObject = [PSCustomObject]@{
@@ -835,6 +845,12 @@ AllDelay = "\n~\nBreak / Place / HT / Plant / World : **("
                 value = "]]..ShowPack..[["
                 inline = "true"
             }
+            @{
+                name = ":timer: Bot Running"
+                value = "]]..HitungWaktuPerm()..[["
+                inline = "true"
+            }
+
             @{
                 name = ":beginner: Other Information"
                 value = "Online/Offline : (]]..StatusAktif("online")..[[/]]..StatusAktif("offline")..[[)"
