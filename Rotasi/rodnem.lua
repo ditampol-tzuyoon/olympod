@@ -121,7 +121,7 @@ ListPembeli = {
     {iddc = "571579692390416400", nick = "MintaHalal"},
     {iddc = "465535317768798248", nick = "OUUM"},
     {iddc = "814819825419288606", nick = "JOLIKNTOL"},
-    {iddc = "869172580198809651", nick = "05UD21FXI3X"},
+    {iddc = "869172580198809651", nick = "05UD22FXI3X"},
     {iddc = "898017809781653585", nick = "sledpefcv5"},
     {iddc = "390786332240379915", nick = "Elpetro"},
     {iddc = "489388144630693890", nick = "HuangYun"},
