@@ -124,7 +124,7 @@ ListPembeli = {
     {iddc = "869172580198809651", nick = "05UD22FXI3X"},
     {iddc = "898017809781653585", nick = "sledpefcv5"},
     {iddc = "390786332240379915", nick = "Elpetro"},
-    {iddc = "489388144630693890", nick = "HuangYun"},
+    {iddc = "489388144630693890", nick = "AKUSAYANGHANA"},
     {iddc = "540758447810150412", nick = "Solarpanel150w"},
     {iddc = "937693157133516900", nick = "1tkgbegal"},
     {iddc = "446168284618817539", nick = "fach1"},
