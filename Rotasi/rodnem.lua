@@ -194,5 +194,6 @@ ListPembeli = {
     {iddc = "972653672964178021", nick = "Berlianacandraf"},
     {iddc = "390431697675485187", nick = "lalovers"},
     {iddc = "728628332416991373", nick = "cembrang"},
-    {iddc = "708642544128360500", nick = "IpinH"}
+    {iddc = "708642544128360500", nick = "IpinH"},
+    {iddc = "759443681878343700", nick = "LITTLEPELI"}
 }
