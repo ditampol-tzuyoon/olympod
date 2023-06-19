@@ -185,7 +185,7 @@ ListPembeli = {
     {iddc = "1096727729312890971", nick = "Vielaz"},
     {iddc = "866842081062027294", nick = "P2Z0U6S1X7"},
     {iddc = "488231250964774937", nick = "landprofits248"},
-    {iddc = "864858232949440582", nick = "Dedygaul"},
+    {iddc = "864858232949440582", nick = "adhygaul"},
     {iddc = "1033649888132595781", nick = "XetelQeniiac"},
     {iddc = "527535594021060613", nick = "ghiyats99"},
     {iddc = "268680164295049217", nick = "IkanRGB"},
