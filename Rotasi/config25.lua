@@ -1,3 +1,5 @@
+IP_Server_OD = "139.177.185.39"
+
 if ShowIP then
     Lihatin = "Lihatin"
 else
