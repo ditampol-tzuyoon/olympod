@@ -13,7 +13,7 @@ ListPembeli = {
 	"552492526968504340"
 }
 
-IP_Server_OD = "139.177.185.39"
+IP_Server_OD = "172.104.187.135"
 function notice(logger, editz)
 	
     if getBot().status == "online" then
