@@ -1,4 +1,4 @@
-IP_Server_OD = "172.104.187.135"
+IP_Server_OD = "172.105.23.243"
 
 if ShowIP then
     Lihatin = "Lihatin"
