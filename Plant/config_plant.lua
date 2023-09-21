@@ -1,4 +1,4 @@
-IP_Server_OD = "23.159.176.76"
+IP_Server_OD = "172.104.46.13"
 
 if not JamSkrg then
     JamSkrg = 6
